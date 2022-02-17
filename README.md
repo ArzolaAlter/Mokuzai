@@ -2,7 +2,7 @@
 
 ![GIF](https://user-images.githubusercontent.com/48701454/154351831-b9755412-5c7d-4d0f-86f2-957ccb12104c.gif)
 
-This was a project made in 3 ~(gruesome)~ days with C++, FreeGLUT and OpenGL for a school project.
+This was a project made in 3 ~(gruesome)~ days with C++, FreeGLUT and OpenGL for a school assignment.
 
 It's a tree generation application that features:
 * The ability to fully customize many aspects of the tree, from the allowed angles to spawn branches, to establishing a minimum height needed to spawn them.
